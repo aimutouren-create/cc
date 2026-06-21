@@ -13,11 +13,11 @@ WORK_MIN = 25   # 工作时长
 BREAK_MIN = 5   # 休息时长
 
 # ---- 配色 ----
-COLOR_WORK = "#d95550"          # 工作-红
-COLOR_WORK_ACTIVE = "#b84540"   # 工作按钮按下
-COLOR_BREAK = "#4c9195"         # 休息-青
-COLOR_BREAK_ACTIVE = "#3a7175"  # 休息按钮按下
-COLOR_BG = "#2b2b2b"            # 背景
+COLOR_WORK = "#f97316"          # 工作-橙橘
+COLOR_WORK_ACTIVE = "#ea670c"   # 工作按钮按下
+COLOR_BREAK = "#38bdf8"         # 休息-天蓝
+COLOR_BREAK_ACTIVE = "#1ca7e0"  # 休息按钮按下
+COLOR_BG = "#292524"            # 背景-暖棕黑
 COLOR_TEXT = "#ffffff"
 
 
